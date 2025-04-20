@@ -116,7 +116,6 @@ Other ALU Update:
 Instruction: MUL 2 10
 ...
 Instruction: done
-# (Plots appear in a new window)
 
 ## Code Structure
 ├── structural_hazard_sim.py    # Main simulation and plotting logic
