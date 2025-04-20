@@ -21,7 +21,7 @@ This repository contains a Python-based simulation for detecting and avoiding st
 7. [Results and Analysis](#results-and-analysis)  
 8. [Contributing](#contributing)  
 9. [License](#license)  
-10. [Authors]
+10. [Authors](#author)
 
 ---
 
